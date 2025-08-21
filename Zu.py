@@ -7,8 +7,6 @@ lines = [
     "Couldn't be much more from the heart",
     "Forever trusting who we are",
     "And nothing else matters",
-    "                        ",
-    "Te amo mi amor <3"
 ]
 
 char_delay = 0.10 
